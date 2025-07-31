@@ -1,0 +1,10 @@
+Sample PDF content for testing
+This is a test document that will be processed by our CrewAI setup.
+It contains multiple lines of text that will be extracted and analyzed.
+
+The PDF extraction crew will:
+1. Extract all text content
+2. Analyze the content
+3. Provide a summary
+
+This demonstrates the basic functionality of our PDF processing system.
